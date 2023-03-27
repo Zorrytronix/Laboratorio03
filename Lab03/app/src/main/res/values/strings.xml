@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="mountMoney">Cantidad de dinero</string>
+    <string name="totalMoney">0</string>
+</resources>
